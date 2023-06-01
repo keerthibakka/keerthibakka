@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerthibakka
 - 👀 I’m interested in New Technologies
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning Django
 
 <!---
 keerthibakka/keerthibakka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
